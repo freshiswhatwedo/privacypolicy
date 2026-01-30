@@ -1,0 +1,6 @@
+
+sol = FB48xt5kGUCcDQRUTZDAsX3M6LbwX5Uk8KkMAevzbtP
+eth = 0x278eC4b74ab1E9132b97EC3fa7Cd64b27c120354
+btc = bc1q7ngxn4sj08lx2aexcw89lr05tnwuftjjnuv38c
+sui = 0x2a1df300448999da0dd0c48f75908ccd8ec6b85e101b16670f3c86530625212d
+cashapp = $notwillkelley
