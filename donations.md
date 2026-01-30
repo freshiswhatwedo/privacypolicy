@@ -7,3 +7,5 @@ btc = bc1q7ngxn4sj08lx2aexcw89lr05tnwuftjjnuv38c
 sui = 0x2a1df300448999da0dd0c48f75908ccd8ec6b85e101b16670f3c86530625212d
 
 cashapp = $notwillkelley
+
+paypal = willckelley@icloud.com
